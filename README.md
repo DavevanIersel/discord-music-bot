@@ -18,12 +18,15 @@ Here are all the available commands in the bot!
 
 |      Name      |            Description             |  Options  |
 |:---------------|:----------------------------------:|----------:|
+|    **/8d**     |          Toggle 8d filter          |           |
 |   **/back**    |      Play the previous track       |           |
 | **/bassboost** |      Toggle bassboost filter       |           |
 |   **/clear**   |      Clear the current queue.      |           |
+|  **/earrape**  |      Set music volume to 1000      | \<amount> |
 |  **/history**  |     Display the queue history      |  \<page>  |
 |   **/jump**    |      Jump to a specific track      | \<tracks> |
 |   **/loop**    |           Set loop mode            |  \<mode>  |
+| **/nightcore** |      Toggle nightcore filter       |           |
 |    **/np**     | See what's currently being played  |           |
 |   **/pause**   |       Pause the current song       |           |
 |   **/play**    |      Play a song from youtube      | \<query>  |
@@ -35,6 +38,7 @@ Here are all the available commands in the bot!
 |  **/shuffle**  |         Shuffle the queue          |           |
 |   **/skip**    |      Skip to the current song      |           |
 |   **/stop**    |          Stop the player           |           |
+| **/vaporwave** |      Toggle vaporwave filter       |           |
 |  **/volume**   |          Set music volume          | \<amount> |
 
 ## About
